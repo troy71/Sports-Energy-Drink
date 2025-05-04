@@ -614,6 +614,11 @@ li {
         margin-bottom: 20px;
     }
 
+    .footer-input{
+        margin-bottom: 10px;
+    }
+
+
 
 }
 
@@ -631,4 +636,5 @@ li {
         background-color: #000;
 
     }
+
 }
